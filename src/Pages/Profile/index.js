@@ -172,7 +172,7 @@ export default function Profile() {
                         </div>
                     </Wrap>
                     <Wrap>
-                        <Subtitle>"Desenvolvido por Ruan Vitor"</Subtitle>
+                        <Subtitle>"Desenvolvido por Ruan Vitor "</Subtitle>
                     </Wrap>
                 </Right>
             </Container>
