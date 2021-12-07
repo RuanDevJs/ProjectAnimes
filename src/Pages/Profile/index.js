@@ -172,7 +172,7 @@ export default function Profile() {
                         </div>
                     </Wrap>
                     <Wrap>
-                        <Subtitle>"Libertários não morrem!"</Subtitle>
+                        <Subtitle>"Desenvolvido por Ruan Vitor"</Subtitle>
                     </Wrap>
                 </Right>
             </Container>
